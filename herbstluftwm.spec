@@ -19,7 +19,7 @@ Requires: libx11
 Requires: libxft
 Requires: freetype
 Requires: lib64xrandr2
-Requires: libxinerama1
+Requires: lib64xinerama1
 
 %description
 %summary
