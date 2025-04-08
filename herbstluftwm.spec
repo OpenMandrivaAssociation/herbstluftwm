@@ -10,6 +10,7 @@ Group:		Window Manager/Other
 BuildSystem:	cmake
 BuildRequires:	asciidoc
 BuildRequires:	a2x
+BuildRequires:  pkgconfig(x11)
 
 Requires: libx11
 Requires: libxft
