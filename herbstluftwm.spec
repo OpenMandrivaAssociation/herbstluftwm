@@ -13,6 +13,7 @@ BuildRequires:	a2x
 BuildRequires:  pkgconfig(x11)
 BuildRequires:  pkgconfig(xrandr)
 BuildRequires:  pkgconfig(xfixes)
+BuildRequires:  pkgconfig(xft)
 
 Requires: libx11
 Requires: libxft
