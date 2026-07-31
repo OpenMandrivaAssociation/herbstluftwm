@@ -1,5 +1,5 @@
 Name:		herbstluftwm
-Version:    0.9.5
+Version:    0.9.6
 Release:	    1
 Source0:	    https://github.com/herbstluftwm/herbstluftwm/archive/v%{version}/%{name}-%{version}.tar.gz
 Summary:	    A manual tiling window manager for X11
